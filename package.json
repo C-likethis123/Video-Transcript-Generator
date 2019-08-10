@@ -1,0 +1,17 @@
+{
+  "name": "lecture-transcript-generator",
+  "version": "1.0.0",
+  "description": "Lecture Video Transcript Generator ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.8.8",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
